@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-
 int[] Note = new int[8];
 string Name;
 string[] Fächernamen = new string[8];
@@ -25,8 +24,9 @@ for (int i = 0; i < Note.Length; i++)
 
 double insgesamt = 0;
 
-for(int x = 0; x < 8; x++)
+for (int x = 0; x < 8; x++)
 {
+    if (Note[x] <= 15;
 
     insgesamt = insgesamt + Note[x];
 
@@ -36,13 +36,7 @@ for(int x = 0; x < 8; x++)
 insgesamt = insgesamt + Note[0] + Note[1];
 insgesamt = insgesamt / 10;
 
-Console.WriteLine("Der Durchschnitt mit doppelter Gewichtung")
-Console.WriteLine(insgesamt);
+Console.WriteLine("Der Durchschnitt mit doppelter Gewichtung ist: " + insgesamt);
 
 Console.WriteLine("Taste drücken um neues Zeugnis zu Erstellen");
 Console.ReadKey(true);
-
-
-
-
-

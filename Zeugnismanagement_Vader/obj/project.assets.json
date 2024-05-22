@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Albert\\Desktop\\Schule\\Informatik\\msgDavid\\msgDavid\\msgDavid.csproj",
-      "projectName": "msgDavid",
-      "projectPath": "C:\\Users\\Albert\\Desktop\\Schule\\Informatik\\msgDavid\\msgDavid\\msgDavid.csproj",
+      "projectUniqueName": "C:\\Users\\Albert\\Desktop\\Schule\\Informatik\\msgDavid\\2024-gruppe-vader\\Zeugnismanagement_Vader\\Zeugnismanagement_Vader.csproj",
+      "projectName": "Zeugnismanagement_Vader",
+      "projectPath": "C:\\Users\\Albert\\Desktop\\Schule\\Informatik\\msgDavid\\2024-gruppe-vader\\Zeugnismanagement_Vader\\Zeugnismanagement_Vader.csproj",
       "packagesPath": "C:\\Users\\Albert\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Albert\\Desktop\\Schule\\Informatik\\msgDavid\\msgDavid\\obj\\",
+      "outputPath": "C:\\Users\\Albert\\Desktop\\Schule\\Informatik\\msgDavid\\2024-gruppe-vader\\Zeugnismanagement_Vader\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Albert\\AppData\\Roaming\\NuGet\\NuGet.Config",
