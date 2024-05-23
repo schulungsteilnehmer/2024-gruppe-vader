@@ -1,0 +1,15 @@
+C:\Users\Albert\Desktop\Schule\Informatik\msgDavid\2024-gruppe-vader\Zeugnismanagement_Vader\bin\Debug\net8.0\Zeugnismanagement_Vader.exe
+C:\Users\Albert\Desktop\Schule\Informatik\msgDavid\2024-gruppe-vader\Zeugnismanagement_Vader\bin\Debug\net8.0\Zeugnismanagement_Vader.deps.json
+C:\Users\Albert\Desktop\Schule\Informatik\msgDavid\2024-gruppe-vader\Zeugnismanagement_Vader\bin\Debug\net8.0\Zeugnismanagement_Vader.runtimeconfig.json
+C:\Users\Albert\Desktop\Schule\Informatik\msgDavid\2024-gruppe-vader\Zeugnismanagement_Vader\bin\Debug\net8.0\Zeugnismanagement_Vader.dll
+C:\Users\Albert\Desktop\Schule\Informatik\msgDavid\2024-gruppe-vader\Zeugnismanagement_Vader\bin\Debug\net8.0\Zeugnismanagement_Vader.pdb
+C:\Users\Albert\Desktop\Schule\Informatik\msgDavid\2024-gruppe-vader\Zeugnismanagement_Vader\obj\Debug\net8.0\Zeugnismanagement_Vader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Albert\Desktop\Schule\Informatik\msgDavid\2024-gruppe-vader\Zeugnismanagement_Vader\obj\Debug\net8.0\Zeugnismanagement_Vader.AssemblyInfoInputs.cache
+C:\Users\Albert\Desktop\Schule\Informatik\msgDavid\2024-gruppe-vader\Zeugnismanagement_Vader\obj\Debug\net8.0\Zeugnismanagement_Vader.AssemblyInfo.cs
+C:\Users\Albert\Desktop\Schule\Informatik\msgDavid\2024-gruppe-vader\Zeugnismanagement_Vader\obj\Debug\net8.0\Zeugnismanagement_Vader.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Desktop\Schule\Informatik\msgDavid\2024-gruppe-vader\Zeugnismanagement_Vader\obj\Debug\net8.0\Zeugnismanagement_Vader.sourcelink.json
+C:\Users\Albert\Desktop\Schule\Informatik\msgDavid\2024-gruppe-vader\Zeugnismanagement_Vader\obj\Debug\net8.0\Zeugnismanagement_Vader.dll
+C:\Users\Albert\Desktop\Schule\Informatik\msgDavid\2024-gruppe-vader\Zeugnismanagement_Vader\obj\Debug\net8.0\refint\Zeugnismanagement_Vader.dll
+C:\Users\Albert\Desktop\Schule\Informatik\msgDavid\2024-gruppe-vader\Zeugnismanagement_Vader\obj\Debug\net8.0\Zeugnismanagement_Vader.pdb
+C:\Users\Albert\Desktop\Schule\Informatik\msgDavid\2024-gruppe-vader\Zeugnismanagement_Vader\obj\Debug\net8.0\Zeugnismanagement_Vader.genruntimeconfig.cache
+C:\Users\Albert\Desktop\Schule\Informatik\msgDavid\2024-gruppe-vader\Zeugnismanagement_Vader\obj\Debug\net8.0\ref\Zeugnismanagement_Vader.dll

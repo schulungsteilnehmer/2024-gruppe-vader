@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zeugnismanagement_Vader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4aff0ac787869d187c686c5ad57b71b1f8194be0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zeugnismanagement_Vader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zeugnismanagement_Vader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
